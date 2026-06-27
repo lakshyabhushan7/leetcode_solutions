@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
