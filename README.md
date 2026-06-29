@@ -63,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 ## Array
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
