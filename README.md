@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
