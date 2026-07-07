@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,10 +145,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0735-asteroid-collision) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
