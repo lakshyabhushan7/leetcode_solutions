@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
