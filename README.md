@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1288-remove-covered-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0050-powx-n) |
+| [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
