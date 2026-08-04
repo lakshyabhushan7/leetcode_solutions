@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3731-find-missing-elements](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3895-count-digit-appearances](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 ## Divide and Conquer
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
