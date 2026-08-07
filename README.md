@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Greedy
