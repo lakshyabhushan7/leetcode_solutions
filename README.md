@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
