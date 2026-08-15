@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3895-count-digit-appearances](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3895-count-digit-appearances) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
