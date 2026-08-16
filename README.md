@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -315,10 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -329,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
