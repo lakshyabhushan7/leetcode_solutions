@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
