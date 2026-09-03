@@ -11,9 +11,9 @@ public:
                 Odd = true;
             }
         }
-        if (mn & 1) {
+        if (mn & 1) {     // if mn is odd we can subtract all even and make odd
             return true;
         }
-        return !Odd;
+        return !Odd;   // if mn is even we can not make odd even so if odd present then false else true
     }
 };
