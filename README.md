@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1922-count-good-numbers) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
