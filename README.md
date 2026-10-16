@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
