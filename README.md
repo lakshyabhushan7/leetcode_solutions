@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
