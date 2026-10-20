@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0509-fibonacci-number) |
