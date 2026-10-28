@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0932-beautiful-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0932-beautiful-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1288-remove-covered-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0148-sort-list) |
+| [0932-beautiful-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0932-beautiful-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0932-beautiful-array) |
 | [1137-n-th-tribonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1922-count-good-numbers](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1927-sum-game) |
