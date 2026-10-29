@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
