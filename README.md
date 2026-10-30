@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lakshyabhushan7/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
